@@ -1,5 +1,0 @@
-python-telegram-bot[job-queue]
-google-genai
-python-dotenv
-pytz
-aiohttp
